@@ -1,9 +1,9 @@
-var cacheName = 'egui-template-pwa';
+var cacheName = 'typing-practice-pwa';
 var filesToCache = [
   './',
   './index.html',
-  './eframe_template.js',
-  './eframe_template_bg.wasm',
+  './typing_practice.js',
+  './typing_practice_bg.wasm',
 ];
 
 /* Start the service worker and cache all of the app's content */

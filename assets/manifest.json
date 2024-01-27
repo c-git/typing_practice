@@ -1,6 +1,6 @@
 {
-  "name": "egui Template PWA",
-  "short_name": "egui-template-pwa",
+  "name": "typing-practice PWA",
+  "short_name": "typing-practice-pwa",
   "icons": [
     {
       "src": "./icon-256.png",
